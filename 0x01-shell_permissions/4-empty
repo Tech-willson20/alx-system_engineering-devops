@@ -1,2 +1,2 @@
 #!/bin/bash
-touch /path/to/directory/hello
+touch hello
